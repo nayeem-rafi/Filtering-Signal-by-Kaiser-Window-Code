@@ -1,4 +1,4 @@
-# Filtering Signal by Keiser Window (Code)
+# Filtering Signal by Kaiser Window (Code)
 
 By [Naimur Rahman](https://github.com/nayeem-rafi)
 ## [Click for Files](https://drive.google.com/drive/folders/1aYsiQ6l6xobzYM8NmtJ5ZH6Zgu7BMiFH?usp=drive_link)
